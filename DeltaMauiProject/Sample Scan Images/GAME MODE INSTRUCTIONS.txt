@@ -1,0 +1,22 @@
+How to Create Custom Scan Images for Good Guys, Bad Guys, and Power-Ups
+In this tutorial, you'll learn how to create custom scan images for Good Guys, Bad Guys, and Power-Ups using a barcode maker. These images will be unique and will help prevent repetitive scanning. Additionally, within the provided folder, you will find a PDF with sample images of Good Guys, Bad Guys, and Power-Ups.
+
+Step-by-Step Guide
+Step 1: Access the Custom Barcode Maker
+Open your web browser and navigate to your preferred custom barcode maker tool. One commonly used tool is Online Barcode Generator.
+Step 2: Create Barcodes
+Choose the Barcode Type: Select a barcode type suitable for your application, such as Code 128 or QR Code.
+Enter the Text:
+For Good Guys, start the text with a unique character followed by "GOOD GUY".
+Example: aGOOD GUY, bGOOD GUY, cGOOD GUY.
+For Bad Guys, start the text with a unique character followed by "BAD GUY".
+Example: !BAD GUY, #BAD GUY, $BAD GUY.
+For Power-Ups, start the text with a unique character followed by "POWER UP".
+Example: xPOWER UP, yPOWER UP, zPOWER UP.
+Ensure the unique character at the beginning is random and not reused to avoid repetitive scanning issues.
+Generate the Barcode: Enter the text into the barcode maker and generate the barcode image.
+Download and Save the Barcode: Save the generated barcode image to your computer. Add those following barcode images to custom characters for the game mode.
+Step 3: Use the Sample Images
+Within the provided folder, you will find a PDF with sample images of Good Guys, Bad Guys, and Power-Ups. Use these samples as a reference or directly in your project.
+
+By following these steps, you can create unique barcodes for Good Guys, Bad Guys, and Power-Ups, ensuring each scan is distinct and prevents repetitive scanning.
